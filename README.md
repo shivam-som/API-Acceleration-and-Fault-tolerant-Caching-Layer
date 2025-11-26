@@ -2,6 +2,8 @@
 
 **Description**: Created a high-performance distributed caching layer using Redis/ElastiCache to accelerate frequently accessed APIs. This project demonstrates reducing database load, minimizing latency for read-heavy endpoints, and improving overall throughput for large-scale applications.
 
+<img width="1842" height="579" alt="image" src="https://github.com/user-attachments/assets/158a809c-06b5-467a-933d-2942b6d6c15e" />
+
 ## Features
 - Express-based API server with caching middleware.
 - Redis (ioredis) as the caching store with automatic failover to DB on cache miss or Redis errors.
